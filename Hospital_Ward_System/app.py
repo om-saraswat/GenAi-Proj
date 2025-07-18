@@ -22,7 +22,7 @@ if "wards" not in st.session_state:
     }
 
 # App Layout
-st.title("🏥 ABDEVILLERS Hospital - Symptom Classifier & Ward Routing")
+st.title("🏥 Silicon Valley Hospital - Symptom Classifier & Ward Routing")
 
 tab1, tab2 = st.tabs(["🧑‍⚕️ Patient Intake", "📋 Admin Dashboard"])
 
