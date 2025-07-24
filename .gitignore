@@ -6,7 +6,7 @@ __pycache__/
 .env
 .venv/
 venv/
-
+./Hospital_Ward_System/.streamlit/
 # Jupyter Notebooks checkpoints
 .ipynb_checkpoints/
 
