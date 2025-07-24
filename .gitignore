@@ -1,3 +1,15 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Environment
 .env
-/
-.streamlit
+.venv/
+venv/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS / Editor-specific
+.DS_Store
+*.swp
